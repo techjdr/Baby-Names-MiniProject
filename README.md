@@ -3,5 +3,4 @@ Using data on the popularity of different baby names in the United States from t
 You can view the course here: https://www.coursera.org/learn/java-programming
 
 # Tech-Stack
----
 * Java
